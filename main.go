@@ -22,6 +22,6 @@ func main() {
 	fmt.Println("graham")
 	fmt.Println("graham v2")
 	fmt.Println("graham v3")
-	fmt.Println("bug-fix v3")
-	fmt.Println("bug-fix v2")
+	fmt.Println("bug-fix v3 master我修改了25行")
+	fmt.Println("bug-fix v2 master我修改了26行")
 }
