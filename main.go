@@ -21,4 +21,5 @@ func main() {
 	fmt.Println("graham")
 	fmt.Println("graham v2")
 	fmt.Println("graham v3")
+	fmt.Println("bug-fix v3")
 }
