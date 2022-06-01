@@ -26,5 +26,6 @@ func main() {
 	fmt.Println("bug-fix v2 master我修改了26行")
 	fmt.Println("测试推送到github.....")
 	fmt.Println("测试推送到github.....")
+	fmt.Println("测代码被修改.....")
 
 }
