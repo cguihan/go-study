@@ -27,5 +27,6 @@ func main() {
 	fmt.Println("测试推送到github.....")
 	fmt.Println("测试推送到github.....")
 	fmt.Println("测代码被修改.....")
+	fmt.Println("王五测代码被修改.....")
 
 }
