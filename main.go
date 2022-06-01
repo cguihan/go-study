@@ -12,8 +12,12 @@ func main() {
 			"message": "pong",
 		})
 	})
-	r.Run(":8081") // listen and serve on 0.0.0.0:8080
+	err := r.Run(":8081")
+	if err != nil {
+		return
+	} // listen and serve on 0.0.0.0:8080
 
 	//v1
 	fmt.Println("graham")
+	fmt.Println("graham v2")
 }
